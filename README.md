@@ -18,10 +18,18 @@ _Don't use as an actual password generator. Please._
 
 ## Usage
 
-* **Download from Github**
+### For hipsters:
+
+* **Download from GitHub**
 * **Open shell window in the directory where PassGen.py is located**
-* **Execute the command or run using a code editor such as IDLE,VSCode...** 
+* **Run the following command**
 
 > python PassGen.py
 
 * **The fake GUI should appear in the shell window**
+
+### For regular people
+
+* **Download from GitHub as a .zip**
+* **Extract .zip**
+* **Run PassGen.py in a preferred way**
