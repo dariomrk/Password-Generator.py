@@ -6,6 +6,10 @@ Small terminal based password generator built using Pyhton.<br>This has been mad
 
 _Don't use as an actual password generator. Please._
 
+## Screenshots
+
+<img src="https://i.imgur.com/ZLH5RcW.png">
+
 ## Requirements:
 
 * **Pyhton 3.9**
@@ -21,7 +25,3 @@ _Don't use as an actual password generator. Please._
 > python PassGen.py
 
 * **The fake GUI should appear in the shell window**
-
-## Screenshots
-
-<img src="https://i.imgur.com/ZLH5RcW.png">
