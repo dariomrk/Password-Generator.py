@@ -11,3 +11,17 @@ _Don't use as an actual password generator. Please._
 * **Pyhton 3.9**
 * **A brain** :brain:
 * **Functioning human body** (optional)
+
+## Usage
+
+* **Download from Github**
+* **Open shell window in the directory where PassGen.py is located**
+* **Execute the command or run using a code editor such as IDLE,VSCode...** 
+
+> python PassGen.py
+
+* **The fake GUI should appear in the shell window**
+
+## Screenshots
+
+<img src="https://i.imgur.com/ZLH5RcW.png">
