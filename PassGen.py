@@ -173,6 +173,8 @@ def WriteValue(key,value,filename):
     file.write(str(content_dict))
     file.close()     
 
+ClearShell()
+    
 #Main
 main = True
 while main:
