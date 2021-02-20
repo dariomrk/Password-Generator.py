@@ -20,7 +20,7 @@ _Don't use as an actual password generator. Please._
 
 ### For hipsters:
 
-* **Download from GitHub**
+* **Clone from GitHub**
 * **Open shell window in the directory where PassGen.py is located**
 * **Run the following command**
 
