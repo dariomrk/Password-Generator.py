@@ -6,6 +6,14 @@ Small terminal based password generator built using Pyhton.<br>This has been mad
 
 _Don't use as an actual password generator. Please._
 
+## Features
+
+* **Light, fast and reliable**
+* **Save password preset to a config file**
+* **Quickly generate new password based on preset**
+* **Toggle uppercase, lowercase, digits and special characters**
+* **Choose any password lenght**
+
 ## Screenshots
 
 <img src="https://i.imgur.com/ZLH5RcW.png">
