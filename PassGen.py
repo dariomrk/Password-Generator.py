@@ -2,7 +2,7 @@
 from ast import literal_eval
 from secrets import choice
 from string import ascii_lowercase, ascii_uppercase,digits,punctuation
-from time import sleep    
+from time import sleep
 
 #Logo
 def Logo():
@@ -203,6 +203,8 @@ while main:
     #Menu
     while True:
 
+        ClearShell()
+
         Logo()
         LogoMainMenu()
         OptionsMainMenu()
@@ -233,6 +235,12 @@ while main:
             ClearShell()
         
         #Check for invalid choice
+        elif MainMenuOption == "":
+
+            print("\nError: This option is not specified! Continuing in 3 seconds...")
+            sleep(3)
+            ClearShell()
+
         elif MainMenuOption not in "12345":
 
             print("\nError: This option is not specified! Continuing in 3 seconds...")
