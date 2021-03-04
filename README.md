@@ -34,8 +34,6 @@ _Don't use as an actual password generator. Please._
 
 > python PassGen.py
 
-* **The fake GUI should appear in the shell window**
-
 ### For regular people
 
 * **Download from GitHub as a .zip**
