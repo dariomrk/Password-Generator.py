@@ -34,7 +34,7 @@ _Don't use as an actual password generator. Please._
 
 > python PassGen.py
 
-### For regular people
+### For regular people:
 
 * **Download from GitHub as a .zip**
 * **Extract .zip**
